@@ -1,0 +1,4 @@
+﻿  Gobang.cpp
+D:\DEV\code\my VS code\Gobang\Gobang\Gobang.cpp(160,28): warning C4002: 类函数宏的调用“_T”参数过多
+D:\DEV\code\my VS code\Gobang\Gobang\Gobang.cpp(153): warning C4715: “ChearWin”: 不是所有的控件路径都返回值
+  Gobang.vcxproj -> D:\DEV\code\my VS code\Gobang\x64\Debug\Gobang.exe
